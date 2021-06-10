@@ -1,6 +1,6 @@
 name = "hsakmt_roct_jll"
 uuid = "1cecccd7-a9b6-5045-9cdc-a44c19b16d76"
-version = "3.8.0+0"
+version = "4.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,5 +10,5 @@ NUMA_jll = "7f51dc2b-bb24-59f8-b771-bb1490e4195d"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"

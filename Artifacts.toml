@@ -1,18 +1,18 @@
 [[hsakmt_roct]]
 arch = "x86_64"
-git-tree-sha1 = "d1577be8a7111fbf00959f645e27f0e4045ce79b"
+git-tree-sha1 = "edb1d767e880a8c89d963fa3cd306bdb5e0f1468"
 libc = "glibc"
 os = "linux"
 
     [[hsakmt_roct.download]]
-    sha256 = "4cabcfacb859a1e0426d13b69edd661e22c80ab624b269cdadb9f064555865c0"
-    url = "https://github.com/JuliaBinaryWrappers/hsakmt_roct_jll.jl/releases/download/hsakmt_roct-v3.8.0+0/hsakmt_roct.v3.8.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "f33300d56c94c08a2b8405a7bed24a228e2162c3896730dcd1afa9afb9b4eac8"
+    url = "https://github.com/JuliaBinaryWrappers/hsakmt_roct_jll.jl/releases/download/hsakmt_roct-v4.0.0+0/hsakmt_roct.v4.0.0.x86_64-linux-gnu.tar.gz"
 [[hsakmt_roct]]
 arch = "x86_64"
-git-tree-sha1 = "34ff1388d044b08465862f102d84a889f481f37e"
+git-tree-sha1 = "2679573332c4fe5a57db6a45a1756b444103a34f"
 libc = "musl"
 os = "linux"
 
     [[hsakmt_roct.download]]
-    sha256 = "38c5900ae803b6778b72de6fbcb8cf34e86909f576f439fc2ff31231311919ca"
-    url = "https://github.com/JuliaBinaryWrappers/hsakmt_roct_jll.jl/releases/download/hsakmt_roct-v3.8.0+0/hsakmt_roct.v3.8.0.x86_64-linux-musl.tar.gz"
+    sha256 = "d6d70068347f06a3ff1af1d37ae8f95e1e708d1d775623db03e47a100c05c271"
+    url = "https://github.com/JuliaBinaryWrappers/hsakmt_roct_jll.jl/releases/download/hsakmt_roct-v4.0.0+0/hsakmt_roct.v4.0.0.x86_64-linux-musl.tar.gz"
